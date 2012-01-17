@@ -1,3 +1,9 @@
-<h1>Site#index</h1>
+<h1>Welcome to my Ruby library App</h1>
+
+<h3>by Aimé Guy Dongmo</h3>
+
 <p>Find me in app/views/site/index.html.erb</p>
 <p>this is my first library app</p>
+
+
+<p>Date of creation: 17.01.2012</p>
